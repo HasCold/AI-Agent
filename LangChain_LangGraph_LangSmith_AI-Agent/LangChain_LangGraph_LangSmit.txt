@@ -1,0 +1,30 @@
+------------------------------------------- LangChain ----------------------------------------
+
+Suppose you have multiple AI models or LLM's like :- Open AI, Gemini, Claude, Deepseek etc and every LLM has different API response payload.
+
+So basically the LangChain will unify all of the AI models API Calling i.e. LangChain(AI API Calling).
+
+
+Example :- 
+Suppose we have a PDF file in which there is a 1 Lac Characters and this file has to be given to the Open AI model.
+LangChain Community Packages like PDFLoader which will read the PDF file in the form of chunks for you. 
+
+-- LangChain will simply for you like providing the pre-built packages.
+
+
+------------------------------------------- LangGraph ----------------------------------------
+
+- LangGraph will basically work as a Graph Orchestration(Management) tool like how you can control the flow of prompt and on the basis of prompt which particular function operations has to be performed.
+
+- Offical statement :- LangChain is a stateful, orchestration framework that brings added control to agent workflows.
+
+
+------------------------------------------- LangSmith ----------------------------------------
+
+- LangSmith basically works as a OpenTelemetry tool's in which you can check or monitoring the application performance, application logging on particular events, application health check etc.
+
+- So when we are working with AI agentic application workflows then the LangSmith comes into play as a application tracing.
+
+-----------------------------------------------------------------------------------------------
+
+Link :- https://www.langchain.com/langchain
